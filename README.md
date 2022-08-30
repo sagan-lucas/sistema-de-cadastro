@@ -3,7 +3,6 @@
 > Status do projeto: em desenvolvimento
 
 Para rodar o projeto em sua máquina, digite:
-
 ```
-npm install sistema
+node app.js
 ```
